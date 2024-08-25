@@ -2,7 +2,7 @@
 
 - [x] ~~1. **Organização dos diretórios do projeto**: seleção dos arquivos, criação do diretório em pasta compartilhável no GDrive, criação do projeto no Github.~~
 
-- **[Em Andamento]** 2. **Desenvolvimento do código de análise de dados**: criação do código em Python, testes e validação.
+- [ ] **[Em andamento]** 2. **Desenvolvimento do código de análise de dados**: criação do código em Python, testes e validação.
 
 - [ ] 3. **Criação do _dashboard_ que será apresentado como entrega do projeto**: este _dashboard_ precisa ter um _storytelling_ claro e objetivo, com a descrição do problema, dos dados, da metodologia e dos resultados.
 
