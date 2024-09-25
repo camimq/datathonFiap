@@ -11,4 +11,4 @@ A pasta `docs`, contém arquivos complementares do projeto:
 - Desenvolvimento do **dashboard**, feito no PBI;
 - PPT de apresentação do projeto.
 
-Além disso, [neste link](https://drive.google.com/drive/folders/1AzOnaXN6LlYqb6rsvbRUnuzZQfnXsu01?usp=sharing), é possível buscar as bases utilizadas e criadas no projeto.
+Além disso, [neste link](https://drive.google.com/drive/folders/1AzOnaXN6LlYqb6rsvbRUnuzZQfnXsu01?usp=sharing), é possível buscar as bases utilizadas e criadas no projeto, além dos documentos de relatório, dashboard do PowerBI e apresentação do PPT. Deixamos disponibilizados também, o arquivo com o vído de apresentação, tanto da pasta `/docs/` deste repositório quanto no Google Drive.
